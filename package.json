@@ -1,0 +1,20 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oskarer/adventofcode.git"
+  },
+  "author": "Oskar Eriksson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oskarer/adventofcode/issues"
+  },
+  "homepage": "https://github.com/oskarer/adventofcode#readme",
+  "dependencies": {}
+}
